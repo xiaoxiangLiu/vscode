@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"windows.h": "c",
+			"stdio.h": "c",
+			"stdbool.h": "c",
+			"tlhelp32.h": "c"
+		}
+	}
+}
